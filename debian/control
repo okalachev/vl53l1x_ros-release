@@ -1,0 +1,12 @@
+Source: ros-melodic-vl53l1x
+Section: misc
+Priority: optional
+Maintainer: Oleg Kalachev <okalachev@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-vl53l1x
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-generation, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Description: VL53L1X ToF rangefinder driver
