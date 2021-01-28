@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>vl53l1x</name>
-  <version>0.4.1</version>
+  <version>1.0.0</version>
   <description>VL53L1X ToF rangefinder driver</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
@@ -9,7 +9,7 @@
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
   <maintainer email="okalachev@gmail.com">Oleg Kalachev</maintainer>
 
-  <license>MIT</license>
+  <license>BSD</license>
 
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
