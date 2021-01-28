@@ -1,0 +1,25 @@
+ros-noetic-vl53l1x (1.0.0-1buster) buster; urgency=high
+
+  * Change licence to BSD-3-Clause
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 27 Jan 2021 21:00:00 -0000
+
+ros-noetic-vl53l1x (0.4.1-1buster) buster; urgency=high
+
+
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Fri, 15 Jan 2021 21:00:00 -0000
+
+ros-noetic-vl53l1x (0.4.0-1buster) buster; urgency=high
+
+  * Publish additional data of the measurements
+  * Publish measurement data even if range status is not valid
+  * Add status meanings to measurement data message file
+  * Implement min_signal and max_sigma parameters
+  * Add pass_statuses parameter for passing range statuses other than 0
+  * Print device info on startup
+  * Contributors: Alexey Rogachevskiy, Arthur Golubtsov, Oleg Kalachev
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 04 Dec 2019 21:00:00 -0000
+
+
